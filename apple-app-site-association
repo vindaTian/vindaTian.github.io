@@ -5,6 +5,10 @@
             {
                 "appID": "DJD75N5WH7.GreenEnergyiOS.com",
                 "paths": [ "*" ]
+            }, 
+            {
+                "appID": "DJD75N5WH7.GreenEnergyiOS.com",
+                "paths": [ "*", "/qq_conn/101922910/*" ]
             }
         ]
     }
