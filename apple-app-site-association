@@ -2,6 +2,14 @@
     "applinks": {
         "apps": [],
         "details": [
+        {
+                "appID": "DJD75N5WH7.GreenEnergyiOS.com",
+                "paths": [ "*" ]
+            }, 
+            {
+                "appID": "DJD75N5WH7.GreenEnergyiOS.com",
+                "paths": [ "*", "/qq_conn/101922910/*" ]
+            }, 
             {
                 "appID": "S8F4H25X5Y.com.luming.juliao",
                 "paths": [ "*" ]
