@@ -5,6 +5,10 @@
           {
                 "appID": "S8F4H25X5Y.com.luming.juliao",
                 "paths": [ "*" ]
+            }, 
+            {
+                "appID": "S8F4H25X5Y.com.luming.juliao",
+                "paths": [ "*", "/qq_conn/101937244/*" ]
             }
           
         ]
