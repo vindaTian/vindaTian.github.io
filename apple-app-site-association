@@ -5,6 +5,10 @@
           {
                 "appID": "37VGYX8ZG7.com.show.comi.ios",
                 "paths": [ "*" ]
+            },
+            {
+             "appID": "M44B38WSQC.com.meetu.lwwwllocal",
+             "paths": [ "*" ]
             }
           
         ]
