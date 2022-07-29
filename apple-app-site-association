@@ -10,7 +10,13 @@
              "appID": "M44B38WSQC.com.meetu.lwwwllocal",
              "paths": [ "*" ]
             }
-          
+           
         ]
+    },
+    {
+    
+    "appclips": {
+        "apps": ["test.com.tiantian.AppClipTest.Clip"]
     }
+} 
 }
