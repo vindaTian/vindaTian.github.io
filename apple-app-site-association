@@ -12,11 +12,5 @@
             }
            
         ]
-    },
-    {
-    
-    "appclips": {
-        "apps": ["test.com.tiantian.AppClipTest.Clip"]
-    }
-} 
+    }, 
 }
