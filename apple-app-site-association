@@ -3,8 +3,8 @@
         "apps": [],
         "details":  [ 
             {
-                "appID": "MRVE36THRM.com.xra.tooyoungWords",
-                "paths": [ "*" ]
+                 "appID": "MRVE36THRM.com.xra.tooyoungWords",
+                "paths": ["/deaplink","/wwdc/news/","*"]
             }
         ]
     }, 
