@@ -1,16 +1,15 @@
 {
     "applinks": {
         "apps": [],
-        "details": [
-          {
-                "appID": "37VGYX8ZG7.com.show.comi.ios",
-                "paths": [ "*" ]
-            },
+        "details":  [
             {
-             "appID": "M44B38WSQC.com.meetu.lwwwllocal",
-             "paths": [ "*" ]
+                "appID": "MRVE36THRM.com.xra.tooyoungWords",
+                "paths": ["/deaplink","/wwdc/news/", "/qq_conn/1105942255/*","*"]
             }
-           
+            {
+                "appID": "MRVE36THRM.com.xra.RootAffix.RootAffixiOSApp",
+                "paths": [ "*" ]
+            }
         ]
     }, 
 }
