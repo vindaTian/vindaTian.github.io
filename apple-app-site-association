@@ -1,11 +1,15 @@
-{
-    "applinks": {
+ {
+"applinks": {
         "apps": [],
-        "details":  [ 
+        "details": [
             {
-                 "appID": "MRVE36THRM.com.xra.tooyoungWords",
-                "paths": ["/deaplink","/wwdc/news/","*"]
+                "appID": "MRVE36THRM.com.xra.tooyoungWords",
+                "paths": ["/deaplink","/wwdc/news/", "/qq_conn/1105942255/*","*"]
+            }
+            {
+                "appID": "MRVE36THRM.com.xra.RootAffix.RootAffixiOSApp",
+                "paths": [ "*" ]
             }
         ]
-    }, 
+    }
 }
